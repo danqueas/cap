@@ -1,0 +1,24 @@
+.size{
+	font-weight: bold;
+	font-size: 15px;
+}
+
+a:hover{
+	cursor: pointer;
+}
+
+.font-table{
+	font-size: 14px;
+}
+
+form#reloj p{
+	font-size: 1.4em;
+}
+
+.time{
+	border-style: solid;
+	border-color: #FFF;
+	border-radius: .5em;
+	text-align: center;
+	font-size: 4em;
+}
